@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**APIEP-EXE/APIEP-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Tristan Amar Fauzan — Informatics student at Telkom University, Bandung">
+</picture>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Tristan 👋
+
+Undergraduate Informatics student at **Telkom University, Bandung** (semester 5).
+
+## About
+
+- 🎓 S1 Informatika, Telkom University Bandung
+- 💼 Internship at **Disdukcapil Kota Bogor**, 13 July – 13 September 2026 (3 months)
+- 🎯 Focus: `[ add your focus ]`
+
+## Featured Projects
+
+> Coming soon: `project_01`, `project_02`
+
+## Engineering Stack
+
+> Coming soon: add your languages, frameworks and tools here.
+
+## Connect
+
+- GitHub: [APIEP-EXE](https://github.com/APIEP-EXE)
+- LinkedIn: [Tristan Amar F](https://www.linkedin.com/in/tristanamar/)
+- Portfolio: _coming soon_
