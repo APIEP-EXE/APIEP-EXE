@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=2">
-  <img src="./dark.svg?v=2" alt="Tristan Amar Fauzan — Informatics student at Telkom University, Bandung">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light2.svg">
+  <img src="./dark2.svg" alt="Tristan Amar Fauzan — Informatics student at Telkom University, Bandung">
 </picture>
 
 </div>
